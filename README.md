@@ -4,7 +4,7 @@ Head over to my newly created layout page  Museum.
 
 Follow the demo link and appreciate all the beauty of the art...
 
-[:octocat:DEMO LINK:octocat:]( https://serhiivovchenko.github.io/Miami-landing_page/)
+[:octocat:DEMO LINK:octocat:](https://serhiivovchenko.github.io/Museum-2_landing-page/)
 
 This colorful design gave me the inspiration for the work.
 
